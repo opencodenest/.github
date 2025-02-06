@@ -1,11 +1,11 @@
 # OpenCodeNest 🌐
 
-Welcome to **OpenCodeNest**, a vibrant hub for **open-source developers** creating innovative and practical coding solutions for the modern world. 🚀
+Welcome to **Open Code Nest**, a vibrant hub for **open-source developers** creating innovative and practical coding solutions for the modern world. 🚀
 
 At OpenCodeNest, we're all about sharing knowledge, building scalable tools, and fostering a community where developers from all backgrounds can contribute, learn, and grow. Join us in shaping the future of software development!
 
 ## 🚀 Our Mission
-Our mission is simple: to provide high-quality, easy-to-use, and powerful open-source tools that help developers solve problems, streamline workflows, and accelerate development. Whether you’re building a personal project, working with a team, or solving complex challenges, **OpenCodeNest** has something for you.
+Our mission is simple: to provide high-quality, easy-to-use, and powerful open-source tools that help developers solve problems, streamline workflows, and accelerate development. Whether you’re building a personal project, working with a team, or solving complex challenges, **Open Code Nest** has something for you.
 
 ## 🛠️ Projects
 Explore a growing collection of open-source projects across multiple programming languages, including **Go**, **Python**, **JavaScript**, and more. Each project is designed to be simple to use, well-documented, and community-driven.
@@ -33,10 +33,10 @@ Have questions? Want to share feedback or ideas? We encourage you to get involve
 - Submitting a pull request
 - Engaging with us on discussions
 
-Your input helps make **OpenCodeNest** better for everyone. Let’s create something amazing together! 💻
+Your input helps make **Open Code Nest** better for everyone. Let’s create something amazing together! 💻
 
 ## 📄 License
-All projects in **OpenCodeNest** are open-source and licensed under the [MIT License](LICENSE). You’re free to use, modify, and distribute the code, but please see the individual projects for specific license details.
+All projects in **Open Code Nest** are open-source and licensed under the [MIT License](LICENSE). You’re free to use, modify, and distribute the code, but please see the individual projects for specific license details.
 
 ---
 
