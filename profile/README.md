@@ -36,7 +36,7 @@ Have questions? Want to share feedback or ideas? We encourage you to get involve
 Your input helps make **OpenCodeNest** better for everyone. Let’s create something amazing together! 💻
 
 ## 📄 License
-All projects in **Open Code Nest** are open-source and licensed under the [MIT License](LICENSE). You’re free to use, modify, and distribute the code, but please see the individual projects for specific license details.
+All projects in **OpenCodeNest** are open-source and licensed under the [MIT License](LICENSE). You’re free to use, modify, and distribute the code, but please see the individual projects for specific license details.
 
 ---
 
